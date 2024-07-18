@@ -6,5 +6,9 @@
 #Ignore package.json file
 package.json
 
+#README.mdを無視する
+#Ignore README.md file
+README.md
+
 #おまけ
 /.env
