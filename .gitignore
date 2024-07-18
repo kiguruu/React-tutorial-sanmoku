@@ -1,0 +1,10 @@
+#Node.jsのモジュールフォルダを無視する
+#Ignore Node.js module folder
+/node_modules
+
+#package.jsonを無視する
+#Ignore package.json file
+package.json
+
+#おまけ
+/.env
