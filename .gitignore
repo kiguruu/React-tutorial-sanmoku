@@ -10,5 +10,9 @@ package-lock.json
 #Ignore README.md file
 README.md
 
+#buildフォルダを無視する
+#Ignore build folder
+/build/
+
 #おまけ
 /.env
