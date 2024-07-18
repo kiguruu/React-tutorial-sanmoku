@@ -2,7 +2,7 @@
   "name": "react-tutorial-sanmoku",
   "version": "0.0.0",
   "main": "/src/index.js",
-  "homepage": "https://kiguruu.github.io/React-tutorial-demo",
+  "homepage": "https://kiguruu.github.io/React-tutorial-sanmoku/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
