@@ -1,6 +1,6 @@
 #Node.jsのモジュールフォルダを無視する
 #Ignore Node.js module folder
-/node_modules
+/node_modules/
 
 #package-lock.jsonを無視する
 #Ignore package-lock.json file
