@@ -2,9 +2,9 @@
 #Ignore Node.js module folder
 /node_modules
 
-#package.jsonを無視する
-#Ignore package.json file
-package.json
+#package-lock.jsonを無視する
+#Ignore package-lock.json file
+package-lock.json
 
 #README.mdを無視する
 #Ignore README.md file
